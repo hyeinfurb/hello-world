@@ -1,5 +1,7 @@
 # hello-world
 Another Repository
-I am here to learn how to code. 
-My favorite food is Chinese food and I like color white.
-I want to master in coding and would like to work my career in coding.
+This is quite confusing and I am trying to understand how this works. 
+Does anyone have any idea if this is part of the coding process?
+I really would like some answers.
+
+Thanks
